@@ -16,7 +16,7 @@ const db = JSON.parse(data);
 const router = jsonServer.router(db)
 
 // Comment out to allow write operations
-const router = jsonServer.router('db.json')
+const router = jsonServer.router(db)
 
 const middlewares = jsonServer.defaults()
 
