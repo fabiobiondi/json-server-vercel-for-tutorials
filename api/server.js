@@ -1,5 +1,3 @@
-const fs = require("fs")
-const path = require("path")
 const db = JSON.parse(fs.readFileSync(path.join("db.json")))
 
 
