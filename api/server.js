@@ -21,7 +21,7 @@ const middlewares = jsonServer.defaults()
 server.use(middlewares)
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
-    '/todos/*': '/$1',
+    // '/todos/*': '/$1',
     '/api/*': '/$1',
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
