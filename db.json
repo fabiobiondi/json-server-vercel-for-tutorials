@@ -25,9 +25,10 @@
     "token": "abc123"
   },
   "users-short": [
-     {
+    {
       "id": 1,
       "name": "Leanne Graham"
+    },
     {
       "id": 2,
       "name": "Ervin Howell"
