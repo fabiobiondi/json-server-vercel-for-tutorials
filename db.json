@@ -24,7 +24,7 @@
     "role": "admin",
     "token": "abc123"
   },
-  "usersShort": [
+  "users-short": [
      {
       "id": 1,
       "name": "Leanne Graham"
