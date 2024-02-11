@@ -16,6 +16,14 @@
       "id": "3"
     }
   ],
+  "send": {
+    "response": "ok"
+  },
+  "login": {
+    "displayName": "Fabio Biondi",
+    "role": "admin",
+    "token": "abc123"
+  },
   "users": [
     {
       "id": 1,
