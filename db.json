@@ -297,5 +297,28 @@
         "bs": "target end-to-end models"
       }
     }
+  ],
+  "youtube-videos": [
+    {
+      "id": "lb4W4MJ4awg",
+      "title": "Angular Signal Inputs (v.17.1) - Tutorial [Ita]",
+      "duration": "11:38"
+    },
+    {
+      "id": "uwaYvLUMp_0",
+      "title": "Angular Evolution - ll nuovo video corso su Angular v.17 (TEASER)",
+      "duration": "0:57"
+    },
+    {
+      "id": "IXmteRzUaxo",
+      "title": "Le differenze tra Client Side Rendering (CSR), Server Side Rendering (SSR) e Static Generation (SSG)\n",
+      "duration": "7:42"
+    },
+    {
+      "id": "wF9czCYpgYk",
+      "title": "CDN In Angular e NgOptimizedImage - Powered by ImageEngine [Tutorial ITA]\n",
+      "duration": "19:23"
+    }
   ]
+
 }
