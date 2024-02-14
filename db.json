@@ -1,19 +1,61 @@
 {
+  "video-courses": [
+    {
+      "id": 1,
+      "name:": "Angular Evolution (v.17+)",
+      "topic": "angular"
+    },
+    {
+      "id": 2,
+      "name:": "Angular e Reactive Forms Fundamentals",
+      "topic": "angular"
+    },
+    {
+      "id": 4,
+      "name:": "Reactive Programming con Angular e RxJS ",
+      "topic": "angular"
+    },
+    {
+      "id": 4,
+      "name:": "State Management in Angular e NGRX 9",
+      "topic": "angular"
+    },
+    {
+      "id": 5,
+      "name:": "Git & GitHub Fundamentals",
+      "topic": "misc"
+    },
+    {
+      "id": 6,
+      "name:": "React PRO - Creare Real World applications",
+      "topic": "react"
+    },
+    {
+      "id": 7,
+      "name:": "NextJS Fundamentals",
+      "topic": "react"
+    },
+    {
+      "id": 8,
+      "name:": "Scrivere E2E test con Cypress ",
+      "topic": "react"
+    }
+  ],
   "todos": [
     {
-      "id": "1",
+      "id": 1,
       "title": "ToDo 1",
       "completed": true
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "ToDo 2",
       "completed": true
     },
     {
+      "id": 3,
       "title": "ToDo 3",
-      "completed": false,
-      "id": "3"
+      "completed": false
     }
   ],
   "send": {
@@ -320,5 +362,4 @@
       "duration": "19:23"
     }
   ]
-
 }
