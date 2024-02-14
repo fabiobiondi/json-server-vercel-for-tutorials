@@ -2,42 +2,42 @@
   "video-courses": [
     {
       "id": 1,
-      "name:": "Angular Evolution (v.17+)",
+      "name": "Angular Evolution (v.17+)",
       "topic": "angular"
     },
     {
       "id": 2,
-      "name:": "Angular e Reactive Forms Fundamentals",
+      "name": "Angular e Reactive Forms Fundamentals",
       "topic": "angular"
     },
     {
       "id": 3,
-      "name:": "Reactive Programming con Angular e RxJS ",
+      "name": "Reactive Programming con Angular e RxJS ",
       "topic": "angular"
     },
     {
       "id": 4,
-      "name:": "State Management in Angular e NGRX 9",
+      "name": "State Management in Angular e NGRX 9",
       "topic": "angular"
     },
     {
       "id": 5,
-      "name:": "Git & GitHub Fundamentals",
+      "name": "Git & GitHub Fundamentals",
       "topic": "misc"
     },
     {
       "id": 6,
-      "name:": "React PRO - Creare Real World applications",
+      "name": "React PRO - Creare Real World applications",
       "topic": "react"
     },
     {
       "id": 7,
-      "name:": "NextJS Fundamentals",
+      "name": "NextJS Fundamentals",
       "topic": "react"
     },
     {
       "id": 8,
-      "name:": "Scrivere E2E test con Cypress ",
+      "name": "Scrivere E2E test con Cypress ",
       "topic": "react"
     }
   ],
