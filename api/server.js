@@ -2,11 +2,13 @@ const fs = require('fs')
 const path = require('path')
 
 // const db = JSON.parse(fs.readFileSync(path.join("db.json")))
-const db = require('./db.json');
 
 // See https://github.com/typicode/json-server#module
 const jsonServer = require('json-server')
+const db = require('./db.json');
+
 const server = jsonServer.create()
+
 
 // Uncomment to allow write operations
 
@@ -19,6 +21,7 @@ const router = jsonServer.router(db)
 const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
+
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
     // '/todos/*': '/$1',
