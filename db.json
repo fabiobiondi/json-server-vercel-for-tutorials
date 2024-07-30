@@ -60,7 +60,7 @@
   ],
   "send": {
     "response": "ok",
-    "message:" "Nothing is sent. It's a fake service"
+    "message": "Nothing is sent. It's a fake service"
   },
   "login": {
     "displayName": "Fabio Biondi",
