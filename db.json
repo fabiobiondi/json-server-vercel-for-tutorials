@@ -59,7 +59,8 @@
     }
   ],
   "send": {
-    "response": "ok"
+    "response": "ok",
+    "message:" "Nothing is sent. It's a fake service"
   },
   "login": {
     "displayName": "Fabio Biondi",
