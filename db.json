@@ -4,9 +4,7 @@
       "id": 1,
       "title": "Article 1",
       "description": "lorem ipsum 1....",
-      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149830/tutorial-content/video-corsi/ngrx/image-keychains/github-1.jpg",
-
-
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149830/tutorial-content/video-corsi/ngrx/image-keychains/github-1.jpg"
     },
     {
       "id": 2,
