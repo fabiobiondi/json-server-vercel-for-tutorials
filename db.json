@@ -1,4 +1,26 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "name": "Article 1",
+      "description": "lorem ipsum 1....",
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149830/tutorial-content/video-corsi/ngrx/image-keychains/github-1.jpg",
+      
+      
+    },
+    {
+      "id": 2,
+      "name": "Article 2",
+      "description": "lorem ipsum 2....",
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149828/tutorial-content/video-corsi/ngrx/image-keychains/angular-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Article 3",
+      "description": "lorem ipsum 3....",
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712217743/tutorial-content/video-corsi/ngrx/image-keychains/bullet.jpg"
+    }
+  ],
   "video-courses": [
     {
       "id": 1,
