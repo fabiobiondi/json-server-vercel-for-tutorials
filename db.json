@@ -504,5 +504,23 @@
       "type": "paper"
     }
   ],
-  "orders": []
+  "orders": [],
+  "router-config": [
+    {
+      "path": "home",
+      "component": "features/home"
+    },
+    {
+      "path": "page1",
+      "component": "features/page1"
+    },
+    {
+      "path": "page2",
+      "component": "features/page2"
+    },
+    {
+      "path": "page3",
+      "component": "features/page3"
+    }
+  ]
 }
